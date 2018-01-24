@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+/*Applying suitable background gradient to page*/
+body{
+	background: linear-gradient(to bottom right,rgb(64, 187, 156),rgb(169, 248, 242));
+	height: 100%;
+	margin: 0;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}

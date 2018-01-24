@@ -1,6 +1,18 @@
 # S10A1
 
+Note: All output related folders are under "src/app" folder.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+
+## Problem Statement
+1. Create a form with 3 input,1 dropdown field and a button with Reactive
+FormControls and FormGroup.
+2. The dropdown field values should be displayed on initialization using services.
+3. The input and the dropdown fields should use two-way binding. Create a model
+for the fields and initialize them on ngOnInit()
+4. Create a service for sending the data and retrieving the data.
+Create a function which will bind with the (ngSubmit). Once you click that button it
+should send the data in the parameter and it should display the data in the View.
 
 ## Development server
 
